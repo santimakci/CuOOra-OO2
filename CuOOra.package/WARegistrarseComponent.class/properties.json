@@ -5,7 +5,10 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"user",
+		"pass"
+	],
 	"name" : "WARegistrarseComponent",
 	"type" : "normal"
 }

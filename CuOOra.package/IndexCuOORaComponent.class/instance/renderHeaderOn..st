@@ -4,6 +4,8 @@ renderHeaderOn: aCanvas
 aCanvas header
 		with:
 			[ aCanvas div 
-					class: 'titulo';
-					with: [ aCanvas anchor with: 'CuOOra social Network' ] ]
+					class: 'center';
+					with: [ aCanvas anchor
+						class: 't-stroke t-shadow';
+						with: 'CuOOra social Network' ] ]
 	
