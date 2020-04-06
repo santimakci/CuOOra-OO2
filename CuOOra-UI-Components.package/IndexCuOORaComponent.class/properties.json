@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "Maki 4/6/2020 05:04",
+	"super" : "WAComponent",
+	"category" : "CuOOra-UI-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IndexCuOORaComponent",
+	"type" : "normal"
+}
