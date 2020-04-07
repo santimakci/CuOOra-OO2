@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "WAFileLibrary",
-	"category" : "CuOOra-Components",
+	"category" : "CuOOra-UI-Components",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

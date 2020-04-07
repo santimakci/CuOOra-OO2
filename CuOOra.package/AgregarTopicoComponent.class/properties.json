@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MetodosDeSesion",
+	"category" : "CuOOra-UI-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AgregarTopicoComponent",
+	"type" : "normal"
+}

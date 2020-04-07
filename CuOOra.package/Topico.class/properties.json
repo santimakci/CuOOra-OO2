@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "VeroIsoardi 4/5/2020 01:42",
+	"super" : "Object",
+	"category" : "CuOOra-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nombre",
+		"descripcion",
+		"topicos"
+	],
+	"name" : "Topico",
+	"type" : "normal"
+}

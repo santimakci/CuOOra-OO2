@@ -1,2 +1,3 @@
 SystemOrganization addCategory: #CuOOra!
-SystemOrganization addCategory: #'CuOOra-Components'!
+SystemOrganization addCategory: #'CuOOra-Model'!
+SystemOrganization addCategory: #'CuOOra-UI-Components'!

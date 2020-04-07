@@ -1,8 +1,5 @@
 rendering
 renderContentOn: aCanvas
-		aCanvas anchor
-		class:'boton-inicio';
-		url:'CuOOra';
-		with: 'INICIO'.
+		self renderInicioOn: aCanvas.
 		self renderTituloOn: aCanvas.
 		self renderFormularioOn: aCanvas.

@@ -6,6 +6,7 @@ cuOOraCss
 	
 	
 .boton-inicio {
+  position: fixed;
   padding: .375rem .75rem;
   border: 1px solid white;
   border-radius: .25rem;
