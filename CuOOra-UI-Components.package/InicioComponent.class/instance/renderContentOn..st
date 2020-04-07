@@ -2,10 +2,14 @@ rendering
 renderContentOn: aCanvas
 	"Este es el inicio de la pagina con sesion iniciada"
 	self renderCerrarSesionOn: aCanvas.
-	aCanvas heading
-	class: 'center';
-	with: 'Welcome ' , self session user nameUser.
-	self renderBotonesOn: aCanvas
+	aCanvas paragraph
+	 class: 'user';
+	 with: self session user nameUser.
+	self renderHeaderOn: aCanvas.
+	aCanvas break.
+	self renderBotonesOn: aCanvas.
+	aCanvas break.
+	aCanvas horizontalRule class: 'bordes'.
 	
 	
 	

@@ -4,6 +4,16 @@ cuOOraCss
 
 	^ 'body { background: darkcyan;}
 	
+	.bordes{
+		border-color:black}
+	
+	.user{
+	    font-weight: bold;
+    	margin-left: 120px;
+	    font-size: x-large;
+		position: absolute;
+  		margin-top: 3px
+}
 	
 .boton-inicio {
   position: fixed;
