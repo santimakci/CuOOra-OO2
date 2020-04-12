@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "MetodosCompartidos",
-	"category" : "CuOOra-UI-Components",
+	"super" : "WAFileLibrary",
+	"category" : "CuOOra",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "IniciarSesionComponent",
+	"name" : "WACuOOraFiles",
 	"type" : "normal"
 }

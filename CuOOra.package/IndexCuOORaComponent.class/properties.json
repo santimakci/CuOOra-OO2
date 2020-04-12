@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "Maki 4/6/2020 05:04",
 	"super" : "WAComponent",
-	"category" : "CuOOra-UI-Components",
+	"category" : "CuOOra",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

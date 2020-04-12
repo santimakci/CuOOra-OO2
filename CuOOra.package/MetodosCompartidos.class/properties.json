@@ -1,13 +1,14 @@
 {
 	"commentStamp" : "",
 	"super" : "WAComponent",
-	"category" : "CuOOra-UI-Components",
+	"category" : "CuOOra",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"user"
+		"user",
+		"pass"
 	],
-	"name" : "InicioComponent",
+	"name" : "MetodosCompartidos",
 	"type" : "normal"
 }

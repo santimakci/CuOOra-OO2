@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "WASession",
-	"category" : "CuOOra-UI-Components",
+	"super" : "WAComponent",
+	"category" : "CuOOra",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
 		"user"
 	],
-	"name" : "SesionDeUsuario",
+	"name" : "InicioComponent",
 	"type" : "normal"
 }

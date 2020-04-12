@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "MetodosDeSesion",
-	"category" : "CuOOra-UI-Components",
+	"super" : "MetodosCompartidos",
+	"category" : "CuOOra",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "AgregarPreguntaComponent",
+	"name" : "WARegistrarseComponent",
 	"type" : "normal"
 }

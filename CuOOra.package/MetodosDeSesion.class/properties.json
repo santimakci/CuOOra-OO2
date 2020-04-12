@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "WAComponent",
-	"category" : "CuOOra-UI-Components",
+	"category" : "CuOOra",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
@@ -9,6 +9,6 @@
 		"user",
 		"pass"
 	],
-	"name" : "MetodosCompartidos",
+	"name" : "MetodosDeSesion",
 	"type" : "normal"
 }
