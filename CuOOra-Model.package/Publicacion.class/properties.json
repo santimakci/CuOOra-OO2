@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "CuOOra-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"texto",
+		"fechaYHora",
+		"usuario",
+		"likes",
+		"dislikes"
+	],
+	"name" : "Publicacion",
+	"type" : "normal"
+}

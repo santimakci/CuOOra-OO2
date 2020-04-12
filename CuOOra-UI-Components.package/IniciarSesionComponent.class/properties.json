@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MetodosCompartidos",
+	"category" : "CuOOra-UI-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lastError"
+	],
+	"name" : "IniciarSesionComponent",
+	"type" : "normal"
+}
