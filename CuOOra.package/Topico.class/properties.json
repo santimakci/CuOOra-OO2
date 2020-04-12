@@ -7,8 +7,7 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"nombre",
-		"descripcion",
-		"topicos"
+		"descripcion"
 	],
 	"name" : "Topico",
 	"type" : "normal"

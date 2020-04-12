@@ -1,3 +1,3 @@
-as yet unclassified
+methods
 agregarPregunta
 	self call:AgregarPreguntaComponent new. 

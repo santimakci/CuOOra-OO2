@@ -8,7 +8,9 @@
 	"instvars" : [
 		"texto",
 		"fechaYHora",
-		"usuario"
+		"usuario",
+		"likes",
+		"dislikes"
 	],
 	"name" : "Publicacion",
 	"type" : "normal"

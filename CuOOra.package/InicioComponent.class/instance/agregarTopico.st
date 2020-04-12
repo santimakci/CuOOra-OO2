@@ -1,3 +1,3 @@
-as yet unclassified
+methods
 agregarTopico
 	self call:AgregarTopicoComponent new. 
