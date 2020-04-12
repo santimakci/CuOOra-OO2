@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "WAComponent",
-	"category" : "CuOOra",
+	"category" : "CuOOra-UI-Components",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

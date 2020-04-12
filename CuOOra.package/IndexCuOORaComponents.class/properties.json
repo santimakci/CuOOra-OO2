@@ -7,8 +7,10 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"user",
-		"pass"
+		"pass",
+		"header",
+		"lastError"
 	],
-	"name" : "MetodosDeSesion",
+	"name" : "IndexCuOORaComponents",
 	"type" : "normal"
 }

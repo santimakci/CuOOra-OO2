@@ -5,10 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"user",
-		"pass"
-	],
-	"name" : "MetodosDeSesion",
+	"instvars" : [ ],
+	"name" : "SimpleHeaderComponent",
 	"type" : "normal"
 }

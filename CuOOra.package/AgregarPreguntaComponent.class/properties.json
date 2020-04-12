@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "MetodosDeSesion",
-	"category" : "CuOOra",
+	"category" : "CuOOra-UI-Components",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

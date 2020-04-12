@@ -1,17 +1,17 @@
 {
-	"commentStamp" : "VeroIsoardi 4/11/2020 02:42",
+	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "CuOOra-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"nameUser",
-		"pass",
+		"texto",
 		"fechaYHora",
-		"seguidores",
-		"seguidos"
+		"usuario",
+		"likes",
+		"dislikes"
 	],
-	"name" : "Usuario",
+	"name" : "Publicacion",
 	"type" : "normal"
 }
