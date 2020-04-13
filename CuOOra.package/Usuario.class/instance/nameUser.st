@@ -1,3 +1,0 @@
-accessing
-nameUser
-	^ nameUser
