@@ -10,6 +10,7 @@ renderContentOn: aCanvas
 	self renderBotonesOn: aCanvas.
 	aCanvas break.
 	aCanvas horizontalRule class: 'bordes'.
+	self renderPreguntasOn: aCanvas.
 	
 	
 	

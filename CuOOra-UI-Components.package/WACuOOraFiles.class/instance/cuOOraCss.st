@@ -1,8 +1,14 @@
 accessing
-cuOOraCss
+CuOOraCss
 	"Este es el archivo css que se carga en el Index"
 
 	^ 'body { background: darkcyan;}
+		
+	#tituloPregunta{
+	font-size: larger;
+    vertical-align: super;
+    font-weight: bold;
+    margin: 8px;}	
 		
 	.error{
     color: darkred;
@@ -16,7 +22,7 @@ cuOOraCss
 	
 	.user{
 	    font-weight: bold;
-    	margin-left: 120px;
+    	margin-left: 80px;
 	    font-size: x-large;
 		position: absolute;
   		margin-top: 3px
@@ -30,6 +36,22 @@ cuOOraCss
   color: white;
   transition: color .15s ease-in-out,
     background-color .15s ease-in-out;
+}
+
+.boton-cerrar{
+  float:right;
+  padding: .375rem .75rem;
+  border: 1px solid white;
+  border-radius: .25rem;
+  color: white;
+  transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
+
+
+.boton-cerrar:hover, .btn-borde:active, .btn-borde:focus {
+  color: #fff;
+  background-color: #007bff;
 }
 
 .boton-inicio:hover, .btn-borde:active, .btn-borde:focus {
@@ -78,6 +100,8 @@ cuOOraCss
    font-weight: bold;
 	text-align:center;
 	font-style:oblique;}
+	
+
 
 
 	'

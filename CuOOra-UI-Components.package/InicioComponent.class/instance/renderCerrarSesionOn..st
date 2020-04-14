@@ -1,6 +1,6 @@
 accessing
 renderCerrarSesionOn: aCanvas
 	aCanvas anchor
-		class: 'boton-inicio';
+		class: 'boton-cerrar';
 		callback: [self answer];
 		with: 'Cerrar Sesion'

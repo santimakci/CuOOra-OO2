@@ -1,6 +1,6 @@
 rendering
 renderCerrarSesionOn: aCanvas
 	aCanvas anchor
-		class: 'boton-inicio';
+		class: 'boton-cerrar';
 		url: 'CuOOra';
 		with: 'Cerrar Sesion'

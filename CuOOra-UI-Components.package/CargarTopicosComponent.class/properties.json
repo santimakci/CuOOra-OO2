@@ -1,14 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "WASession",
+	"commentStamp" : "Maki 4/13/2020 02:47",
+	"super" : "MetodosDeSesion",
 	"category" : "CuOOra-UI-Components",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"user",
-		"preg"
+		"nombre",
+		"descripcion"
 	],
-	"name" : "SesionDeUsuario",
+	"name" : "CargarTopicosComponent",
 	"type" : "normal"
 }
