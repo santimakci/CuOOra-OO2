@@ -1,5 +1,6 @@
 rendering
 renderPreguntasOn: aCanvas
+	"En caso de que CuOOra tenga mas de 5 preguntas se ejecutara este metodo mostrando solo las ultimas 5 preguntas, caso contraria mostrara todas las que tenga a disposicion"
 	| preg pos |
 	pos := self model preguntas size.
 	pos = 0

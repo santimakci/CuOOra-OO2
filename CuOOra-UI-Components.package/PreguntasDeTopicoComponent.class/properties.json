@@ -1,15 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "WASession",
+	"super" : "WAComponent",
 	"category" : "CuOOra-UI-Components",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"user",
-		"preg",
 		"topic"
 	],
-	"name" : "SesionDeUsuario",
+	"name" : "PreguntasDeTopicoComponent",
 	"type" : "normal"
 }

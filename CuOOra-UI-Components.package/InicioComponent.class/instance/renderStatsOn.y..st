@@ -1,5 +1,6 @@
 rendering
 renderStatsOn: aCanvas y: preg
+	"Render que muestra los likes, dislikes y comentarios que tiene una pregunta"
 	aCanvas div 
 					class: 'contenedor-dislikes';
 					with:[

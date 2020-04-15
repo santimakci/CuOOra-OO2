@@ -1,5 +1,8 @@
 rendering
 renderPocasPreguntasOn: aCanvas
+	"Este metodo se va a ejecutar si CuOOra tiene menos de 5 de preguntas y mostrará todas las que tengas, en caso de tener más de 5 preguntas no se ejecutará"
+	
+	"-------------------- Render del titulo de la pregunta----------"
 	self model preguntas
 		do: [ :preg | 
 			aCanvas div
@@ -7,16 +10,16 @@ renderPocasPreguntasOn: aCanvas
 						class: 'preguntaTitulo';
 						callback: [ self verPregunta: preg];
 						with: preg titulo.
-					"--------------------barra separadora de bajo presupuesto-----------"
+					"--------------------Render de los topicos que tiene la pregunta-----------"
 					aCanvas
 						unorderedList: [ preg topicos
 								do: [ :t | 
 									aCanvas anchor
 										class: 'boton-topico';
-										callback: [  ];
+										callback: [ self verPreguntasTopico: t ];
 										with: t nombre.
 									aCanvas space ] ] ].
-			"--------------------barra separadora de bajo presupuesto-----------"
+			"--------------------Render con las stats que tiene la pregunta-----------"
 			self renderStatsOn: aCanvas y: preg.
 			aCanvas break.
 			aCanvas break.

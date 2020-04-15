@@ -1,5 +1,6 @@
 rendering
 renderBotonesOn: aCanvas
+	"Render del Boton agregar Pregunta"
 	aCanvas div 
 			class: 'center';
 			with: [

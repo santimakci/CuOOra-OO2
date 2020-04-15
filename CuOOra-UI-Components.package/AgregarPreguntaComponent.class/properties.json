@@ -11,7 +11,8 @@
 		"titulo",
 		"descripcion",
 		"topicoActual",
-		"topicos"
+		"topicos",
+		"lastError"
 	],
 	"name" : "AgregarPreguntaComponent",
 	"type" : "normal"

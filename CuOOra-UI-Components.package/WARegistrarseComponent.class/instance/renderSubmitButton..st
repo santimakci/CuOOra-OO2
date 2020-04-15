@@ -1,5 +1,6 @@
 rendering
 renderSubmitButton: aCanvas
+	"Render del boton registrarse"
 	aCanvas div 
 	class: 'center';
 	with: [ 

@@ -5,7 +5,7 @@ aCanvas div
 	style: 'text-align: center;';
 	with: [
 	lastError 
-		ifNotNil: [  aCanvas break.
+		ifNotNil: [ 
 			aCanvas anchor
 						class: 'error';
 						with: lastError.
