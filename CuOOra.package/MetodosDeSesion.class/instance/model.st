@@ -1,3 +1,0 @@
-accessing
-model
-	^CuOOra instanciaUnica 

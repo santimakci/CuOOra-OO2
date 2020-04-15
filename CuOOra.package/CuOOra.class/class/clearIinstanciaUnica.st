@@ -1,3 +1,0 @@
-accessing
-clearIinstanciaUnica
-	instanciaUnica := nil. 
