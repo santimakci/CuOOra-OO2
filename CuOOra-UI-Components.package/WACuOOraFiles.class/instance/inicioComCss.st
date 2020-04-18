@@ -1,6 +1,43 @@
 as yet unclassified
-inicioComCss
+InicioComCss
 ^'
+#boton-follow{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 400;
+    font-weight: bold;
+    margin-left: 10px;
+    color: #ffffff;
+    background-color: indigo;
+    border-radius: 50px;}
+
+#botonLike{
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: x-large;
+    color: green;
+}
+
+#botonDislike{
+    text-decoration: none;
+    margin-left: 5px;
+    font-size: x-large;
+    color: darkred;
+}
+
+.userPregunta{
+    color: black;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.preguntaDe{
+    margin-left: 20px;
+    color: darkred;
+    font-size: x-large;
+    font-weight: bold;
+}
+	
 	.contador-dislikes{   
     margin-left: 25px;
     font-weight: bold;}
@@ -43,6 +80,10 @@ inicioComCss
     background-color: #ffffff;
   }
 
+  #boton-follow:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+  }
 
 	.preguntaTitulo{
 	font-size: xx-large;

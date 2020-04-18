@@ -1,0 +1,1 @@
+Esta clase es utilizada para hacer hacer las sessiones y setear algunos objetos que queremos que sean accesibles desde otros metodos, por ejemplo el nombre de usuario que estamos visitando cuando accedemos desde el inicio del sistema. 

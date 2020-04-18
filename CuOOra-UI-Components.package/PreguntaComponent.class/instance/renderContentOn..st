@@ -1,3 +1,11 @@
 rendering
 renderContentOn: aCanvas
-	aCanvas paragraph: self session preg titulo.
+	self renderCerrarSesionOn: aCanvas.
+	self renderInicioOn: aCanvas.
+	self renderUserOn: aCanvas.
+	self renderHeaderOn: aCanvas.
+	aCanvas horizontalRule.
+	self renderMostrarPreguntaOn:aCanvas.
+	aCanvas horizontalRule.
+	self renderMostrarRespuestasOn: aCanvas.
+	self renderAgregarRespuestaOn: aCanvas.

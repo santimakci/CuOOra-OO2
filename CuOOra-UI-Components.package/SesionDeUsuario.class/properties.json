@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "Maki 4/17/2020 02:41",
 	"super" : "WASession",
 	"category" : "CuOOra-UI-Components",
 	"classinstvars" : [ ],
@@ -8,7 +8,8 @@
 	"instvars" : [
 		"user",
 		"preg",
-		"topic"
+		"topic",
+		"userVisitado"
 	],
 	"name" : "SesionDeUsuario",
 	"type" : "normal"

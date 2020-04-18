@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "HeaderCompartido",
+	"category" : "CuOOra-UI-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "UsuarioComponent",
+	"type" : "normal"
+}

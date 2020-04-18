@@ -1,12 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "WAComponent",
+	"super" : "HeaderCompartido",
 	"category" : "CuOOra-UI-Components",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"preg"
+		"preg",
+		"respuesta"
 	],
 	"name" : "PreguntaComponent",
 	"type" : "normal"

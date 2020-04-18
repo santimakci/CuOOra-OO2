@@ -1,5 +1,6 @@
 rendering
 renderContentOn: aCanvas
+	"Este render no es accesible desde la red CuOOra tiene su propio registrer que esta en el comentario de la clase el cual nos facilito la carga de los topicos a modo de prueba"
 		aCanvas form
 	with:
 	[ aCanvas paragraph: [ aCanvas label with: 'nombre:'. 

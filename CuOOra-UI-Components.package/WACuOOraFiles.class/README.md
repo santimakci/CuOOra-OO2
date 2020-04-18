@@ -1,0 +1,1 @@
+Esta clase hereda de WALibrary es la que utilizamos para cargarle archivos Css a la pagina.

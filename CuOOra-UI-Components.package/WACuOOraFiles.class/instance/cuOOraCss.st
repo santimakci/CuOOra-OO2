@@ -1,5 +1,5 @@
 accessing
-CuOOraCss
+cuOOraCss
 	"Este es el archivo css que se carga en el Index"
 
 	^ 'body { background: darkcyan;}
@@ -22,10 +22,10 @@ CuOOraCss
 	
 	.user{
 	    font-weight: bold;
-    	margin-left: 80px;
 	    font-size: x-large;
-		position: absolute;
-  		margin-top: 3px
+  		margin-top: 3px;
+		float: right;
+    margin-right: 5px;
 }
 	
 .boton-inicio {
