@@ -1,16 +1,13 @@
 {
 	"commentStamp" : "",
 	"super" : "TestCase",
-	"category" : "CuOOra",
-	"classinstvars" : [
-		"usuarios"
-	],
+	"category" : "CuOOra-Tests",
+	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"cuoora1",
 		"usuario"
 	],
-	"name" : "TestCuOOra",
+	"name" : "UsuarioTest",
 	"type" : "normal"
 }

@@ -1,5 +1,5 @@
 tests
-testConUser
+testCrearUsuarioNuevo
 	| unUserName hayUser user|
 	unUserName := 'santi'.
 	user := nil.

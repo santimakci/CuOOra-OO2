@@ -1,4 +1,4 @@
-as yet unclassified
+private
 conUserName: unUserName
 	^ 	usuarios
 		detect: [ :each | each nameUser = unUserName]
