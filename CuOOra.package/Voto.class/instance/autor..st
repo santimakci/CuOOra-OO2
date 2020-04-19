@@ -1,3 +1,3 @@
-accesing
+initialization
 autor: aUser
 	usuario:= aUser.

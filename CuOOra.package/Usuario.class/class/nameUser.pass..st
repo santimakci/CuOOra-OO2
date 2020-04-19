@@ -1,4 +1,4 @@
-as yet unclassified
+constructor
 nameUser: unUsuario pass: unPass
 	^ self new
 		nameUser: unUsuario;

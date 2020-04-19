@@ -1,0 +1,1 @@
+Clase abstracta publicación.

@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "VeroIsoardi 4/11/2020 02:42",
+	"commentStamp" : "VeroIsoardi 4/19/2020 03:42",
 	"super" : "Object",
 	"category" : "CuOOra-Model",
 	"classinstvars" : [ ],
@@ -10,7 +10,8 @@
 		"pass",
 		"fechaYHora",
 		"seguidores",
-		"seguidos"
+		"seguidos",
+		"topicosInteres"
 	],
 	"name" : "Usuario",
 	"type" : "normal"
